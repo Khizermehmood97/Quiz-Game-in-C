@@ -1,10 +1,10 @@
 #include <stdio.h>
-	#include <stdlib.h>
-	#include <conio.h>
-	#include <windows.h>
-	#include <string.h>
-	#include <time.h>
-	#include <stdbool.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <windows.h>
+#include <string.h>
+#include <time.h>
+#include <stdbool.h>
 	
 	void gotoxy(short x, short y);  // Function for gotoxy
 	
